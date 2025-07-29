@@ -1,13 +1,17 @@
 # main links
 main:
-- title: "Home"
-  url: /
-- title: "Projects"
-  url: /projects/
-- title: "Labs"
-  url: /labs/
-- title: "Certifications"
-  url: /certifications/
-- title: "About"
-  url: /about/
+  - title: "Home"
+    url: "/"
+
+  - title: "About"
+    url: "/about/"
+
+  - title: "Projects"
+    url: "/projects/"
+
+  - title: "Labs"
+    url: "/labs/"
+
+  - title: "Certifications"
+    url: "/certifications/"
 
